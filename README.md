@@ -1,0 +1,2 @@
+# Prediction-Algorithms-on-Black-Friday-Sales
+This project examines and uses the Machine Learning algorithms to build a precise model to predict the purchase amount of customer paid for various products which will help retail stores to better understand the customer purchase behaviour, analyses the customers’ favourite products based on their purchases and creates a personalized offer for each customer against their preferred products. The dataset used for the project is about customer purchases obtained from a shopping mall during one of its busiest days: Black Friday. 
